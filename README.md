@@ -9,7 +9,7 @@ as input and retrieves its coordinates using the open source GDAL library
 before writing out the KML file.
 
 Example:
-python QLtoKMLoverlay.py g2_BIOPAR_FCOVER_QL_201207030000_OCEA_VGT_V1.3.tiff g2_BIOPAR_FCOVER_QL_201207030000_OCEA_VGT_V1.3.kml
+python TIFF2KML.py g2_BIOPAR_FCOVER_QL_201207030000_OCEA_VGT_V1.3.tiff g2_BIOPAR_FCOVER_QL_201207030000_OCEA_VGT_V1.3.kml
 
 To repeat for several quicklook files in same folder:
 in Windows, Command Prompt
